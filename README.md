@@ -1,10 +1,10 @@
 
 <a>
-<img src="plot.png" align="right" height="200" />
+<img src="plot.png" align="right" height="150" />
 </a>
 
 <a>
-<img src="reactor.png" align="left" height="150" />
+<img src="reactor.png" align="left" height="100" />
 </a>
 
 # Agitation Video Analysis 
