@@ -9,3 +9,6 @@ dependencies:
     - matplotlib
     - tqdm
     - imageio
+    - tk 
+    - ipywidgets
+    - pandas
