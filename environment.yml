@@ -5,7 +5,7 @@ dependencies:
   - pip
   - pip:
     - numpy
-    - opencv-python
+    - opencv-python-headless
     - matplotlib
     - tqdm
     - imageio
