@@ -1,0 +1,11 @@
+name: video_analysis
+
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - numpy
+    - opencv-python
+    - matplotlib
+    - tqdm
+    - imageio
